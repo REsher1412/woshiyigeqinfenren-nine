@@ -1,0 +1,1 @@
+Adopts RESTful API design style for clear, understandable, and easy-to-use interfaces

@@ -1,0 +1,26 @@
+{
+"name": "woshiyigefeicfeicnulideshuaigenixinbu",
+"version": "1.0.0",
+"description": " the application is fully considered to",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/REsher1412/woshiyigeqinfenren-nine.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "REsher1412",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
